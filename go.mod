@@ -1,3 +1,3 @@
-module testmod/fwcom
+module testmod/greeting
 
 go 1.12

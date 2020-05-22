@@ -1,4 +1,4 @@
-package fwcom
+package greeting
 
 import "fmt"
 
